@@ -18,9 +18,9 @@ Raids
 These are the major mechanic of the game where multiple players join forces to tackle a single boss enemy to gain immense rewards.
 
 Stats
-HP = Health points how much a health a hero has before being defeated.
-Damage = The amount of attack power a hero has to damage enemies
-Crit Chance = The probability of landing a higher damaging attack.
+HP = Health points how much a health a hero has before being defeated./n
+Damage = The amount of attack power a hero has to damage enemies./n
+Crit Chance = The probability of landing a higher damaging attack./n
 Life Steal = The percentage of health gained from damaging an enemy based on hero's damage stat.
 Defense = The percentage of damage mitigated from enemy attacks.
 Dodge = The probability of avoiding damage altogether.
