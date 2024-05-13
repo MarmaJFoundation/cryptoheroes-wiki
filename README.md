@@ -6,7 +6,10 @@ Gaming Widget: https://near.social/#/chloe.near/widget/MJG
 Crypto Heroes is an nft based battle simulator game that will be familiar to people who have played WoW: PVE gameplay — looting, selling and crafting items, fighting friends against dungeon bosses. Collect a minimum of 6 units and start to battle other players! Each battle is fought as best of three and the starting player changes each round. To make it more spicy, you will battle about your PXT stake (after beta). Still don't understand? Take a game like World of Warcraft, slap it onto the blockchain, and you're left with this amazing game called Crypto Heroes
 
 Basics
-There are 3 heroes to play as the Knight, Mage and Rogue. Each of these heroes can be customized and geared to user discretion. There are 4 difficulties Easy, Medium, Hard and Hell. Each difficulty increasing the chance of higher rarity of items dropped.
+There are 3 heroes to play as the Knight, Mage and Rogue. Each of these heroes can be customized and geared to user discretion. There are 4 difficulties Easy, Medium, Hard and Hell. Each difficulty increasing the chance of higher rarity of items dropped as well as harder enemies to fight.
+
+Market
+A place where cryptohero players can sell their items on the blockchain for auction based transactions.
 
 Items
 There are 6 slots of gear to swap onto the 3 heroes Head, Chest, Necklace, Ring, Boots and Weapon. All items for each slot goes from Common to Epic.
@@ -18,6 +21,7 @@ Raids
 These are the major mechanic of the game where multiple players join forces to tackle a single boss enemy to gain immense rewards.
 
 Stats
+
 HP = Health points how much a health a hero has before being defeated.
 
 Damage = The amount of attack power a hero has to damage enemies.
